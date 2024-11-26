@@ -23,7 +23,7 @@
     "got": "^9.6.0",
     "helmet": "^3.21.0",
     "isomorphic-unfetch": "^3.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "metascraper": "^5.6.6",
     "metascraper-amazon": "^5.6.7",
     "metascraper-author": "^5.6.6",
